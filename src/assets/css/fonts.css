@@ -1,0 +1,35 @@
+/* sora-regular - latin */
+@font-face {
+	font-family: "Sora";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url("../fonts/Sora/sora-v11-latin-regular.woff2") format("woff2");
+}
+
+/* sora-500 - latin */
+@font-face {
+	font-family: "Sora";
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url("../fonts/Sora/sora-v11-latin-500.woff2") format("woff2");
+}
+
+/* sora-700 - latin */
+@font-face {
+	font-family: "Orelo";
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url("../fonts/Orelo/orelo-standard-700.woff2") format("woff2");
+}
+
+/* sora-800 - latin */
+@font-face {
+	font-family: "Orelo";
+	font-style: normal;
+	font-weight: 800;
+	font-display: swap;
+	src: url("../fonts/Orelo/orelo-standard-800.woff2") format("woff2");
+}

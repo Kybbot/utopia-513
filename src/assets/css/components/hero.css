@@ -1,0 +1,33 @@
+.hero__title {
+	font-size: 56px;
+	font-weight: 400;
+	line-height: 56px;
+	text-transform: uppercase;
+	text-align: right;
+	margin: 0;
+}
+
+.hero__text {
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 25px;
+	margin: 40px 0 13px 0;
+}
+
+.hero__img {
+	position: relative;
+	width: 234px;
+	height: 284px;
+	margin: 0 auto 57px auto;
+}
+
+.hero__video {
+	position: relative;
+	width: 325px;
+	height: 266px;
+	margin: 0 auto 66px auto;
+}
+
+.hero__video img {
+	object-fit: cover;
+}
